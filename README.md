@@ -1,1 +1,1 @@
-// TODO: brief 2-3 sentences explaining the approach
+My approach was to set up a minimal dev environment that connects to my mongo db instance running on localhost, create a database for the app, add a single record, and then scaffold a minimal express app. Once that was working, I added an integration test suite that covers the requirements from the `Assignment` document.
